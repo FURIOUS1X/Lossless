@@ -1,9 +1,384 @@
 {
   "items": [
     {
-      "song": "Mahi jinhe sonna",
+      "song": "Mahiye jinna sohna",
       "artist": "Darshan Raval",
       "url": "https://canvas.echomusic.fun/Song/sumankar892-commits-1000230014.mp4"
+          },
+    {
+      "song": "Aaya Sher",
+      "artist": "Jangi Reddy",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031642.mp4"
+          },
+    {
+      "song": "Monica",
+      "artist": "Sublahshini",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031655.mp4"
+          },
+    {
+      "song": "Hellallallo",
+      "artist": "A. R. Rahman",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031648.mp4"
+          },
+    {
+      "song": "Mutta Kalakki",
+      "artist": "G. V. Prakash",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031645.mp4"
+          },
+    {
+      "song": "Raavana Mavandaa",
+      "artist": "Anirudh Ravichander",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031656.mp4"
+          },
+    {
+      "song": "Oru Pere Varalaaru",
+      "artist": "Anirudh Ravichander",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031658.mp4"
+          },
+    {
+      "song": "Raga of Revenge",
+      "artist": "Anirudh Ravichander",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031647.mp4"
+          },
+    {
+      "song": "Oorum Blood",
+      "artist": "Paal Dabba",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031662.mp4"
+          },
+    {
+      "song": "Chikri Chikri",
+      "artist": "A.R. Rahman",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031667.mp4"
+          },
+    {
+      "song": "Dheema",
+      "artist": "Anirudh Ravichander",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031651.mp4"
+          },
+    {
+      "song": "Rai Rai Raa Raa",
+      "artist": "A.R. Rahman",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031666.mp4"
+    },
+    {
+      "song": "Bhagatt Aadmi",
+      "artist": "Masoom Sharma, Pranjal Dahiya, Anjali 99, Aman Jaji",
+      "url": "https://canvas.echomusic.fun/Song/mandleshpratapsingh305-prog-28349.mp4"
+          },
+    {
+      "song": "Chambal K Dakku (feat. Ruba Khan)",
+      "artist": "Masoom Sharma, Rahul Muana, Swara Verma",
+      "url": "https://canvas.echomusic.fun/Song/mandleshpratapsingh305-prog-28357.mp4"
+          },
+    {
+      "song": "Raathu Raasan",
+      "artist": "Sai Abhyankkar",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031657.mp4"
+          },
+    {
+      "song": "God Mode",
+      "artist": "Sai Abhyankkar",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031653.mp4"
+          },
+    {
+      "song": "Naanga Naalu Peru",
+      "artist": "Sai Abhyankkar",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031664.mp4"
+          },
+    {
+      "song": "Spark",
+      "artist": "Yuvan Shankar Raja",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031779.mp4"
+          },
+    {
+      "song": "Matta",
+      "artist": "Yuvan Shankar Raja",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031780.mp4"
+          },
+    {
+      "song": "Kaavaalaa",
+      "artist": "Anirudh Ravichander",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031804.mp4"
+          },
+    {
+      "song": "Chuttamalle",
+      "artist": "Shilpa Rao",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031796.mp4"
+          },
+    {
+      "song": "Sawadeeka",
+      "artist": "Anirudh Ravichander, Anthony Daasan, Arivu",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031800.mp4"
+          },
+    {
+      "song": "Golden Sparrow",
+      "artist": "G. V. Prakash, Arivu, Dhanush, Sublahshini",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031797.mp4"
+    },
+    {
+      "song": "Hey shoka",
+      "artist": "Somlata Acharyya Chowdhury,Arindam Chatterjee",
+      "url": "https://canvas.echomusic.fun/Song/sumankar892-commits-1000232069.mp4"
+    },
+    {
+      "song": "Kanimaa",
+      "artist": "Santhosh Narayanan",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031799.mp4"
+    },
+    {
+      "song": "Aga Naga",
+      "artist": "A.R. Rahman",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032624.mp4"
+    },
+    {
+      "song": "Arabic Kuthu - Halamithi Habibo",
+      "artist": "Jonita Gandhi, Anirudh Ravichander",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032627.mp4"
+    },
+    {
+      "song": "Private Party",
+      "artist": "Sivakarthikeyan, Anirudh Ravichander",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032628.mp4"
+    },
+    {
+      "song": "Bae",
+      "artist": "Anirudh Ravichander",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032629.mp4"
+    },
+    {
+      "song": "Veyyon Silli",
+      "artist": "G. V. Prakash",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032630.mp4"
+    },
+    {
+      "song": "So Baby",
+      "artist": "Ananthakrrishnan, Sivakarthikeyan",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032631.mp4"
+    },
+    {
+      "song": "Jolly O Gymkhana",
+      "artist": "Thalapathy Vijay, Anirudh Ravichander",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032632.mp4"
+    },
+    {
+      "song": "Kaattu Payale",
+      "artist": "G. V. Prakash",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032633.mp4"
+    },
+    {
+      "song": "Chellamma",
+      "artist": "Anirudh Ravichander",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032634.mp4"
+    },
+    {
+      "song": "Two Two Two",
+      "artist": "Anirudh Ravichander",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032635.mp4"
+    },
+    {
+      "song": "Nee Singam Dhan",
+      "artist": "A.R. Rahman",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032636.mp4"
+    },
+    {
+      "song": "Hukum - Thalaivar Alappara - Tamil",
+      "artist": "Anirudh Ravichander",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031798.mp4"
+    },
+    {
+      "song": "Hey Minnale",
+      "artist": "Haricharan, Shweta Mohan, G. V. Prakash, Karthik Netha",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031803.mp4"
+    },
+    {
+      "song": "Nache Nache",
+      "artist": "Nakash Aziz, Brinda, Thaman S, Bappi Lahiri, Farooq Qaiser, Raqueeb Alam, Usha Uthup",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031805.mp4"
+    },
+    {
+      "song": "Rebel Saab",
+      "artist": "Thaman S, Sanjith Hegde, Blaaze, Ramajogayya Sastry",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031807.mp4"
+    },
+    {
+      "song": "Sahana Sahana",
+      "artist": "Thaman S, Vishal Mishra, Sruthi Ranjani, Krishna Kanth",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031806.mp4"
+    },
+    {
+      "song": "Karuppa Kooda Va",
+      "artist": "Sai Abhyankkar, V.M. Mahalingam",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031808.mp4"
+    },
+    {
+      "song": "Othaiyadi Pathayila",
+      "artist": "Dhibu Ninan Thomas, Anirudh Ravichander, Arunraja Kamaraj",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031813.mp4"
+    },
+    {
+      "song": "Kaavaalaa",
+      "artist": "Anirudh Ravichander, Shilpa Rao, Arunraja Kamaraj",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031820.mp4"
+    },
+    {
+      "song": "Yedi (From \"Nilavuku En Mel Ennadi Kobam\")",
+      "artist": "G. V. Prakash, Vivek, Dhanush, Jonita Gandhi",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031835.mp4"
+    },
+    {
+      "song": "Rubaroo",
+      "artist": "Ceciroleo, Chinmayi, Bhaskarabhatla",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000031942.mp4"
+    },
+    {
+      "song": "Odiyamma",
+      "artist": "Dhruv Vikram, Shruti Haasan, Chinmayi",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032019.mp4"
+    },
+    {
+      "song": "Ordinary Person (From \"Leo\")",
+      "artist": "Anirudh Ravichander, Nikhita Gandhi",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032035.mp4"
+    },
+    {
+      "song": "Kissik",
+      "artist": "Sublahshini, Devi Sri Prasad, Viveka",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032040.mp4"
+    },
+    {
+      "song": "Kissik",
+      "artist": "Sublahshini, Devi Sri Prasad, Viveka",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032040.mp4"
+    },
+    {
+      "song": "Sooseki",
+      "artist": "Shreya Ghoshal, Devi Sri Prasad, Chandra Bose",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032039.mp4"
+    },
+    {
+      "song": "Boys and Girls",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "I like Presents Too",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "Starcourt",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "I Need You to Trust Me",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "You're a Fighter",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "The ceiling is Beautiful",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "The First I love You",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "Rats",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "What Did You Do To Him?",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "Find The Source",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "The Silver Cat Feeds",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "Heather's",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "William",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "After Math",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "Scoops Troop",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "Code Red",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "Seven Feet",
+      "artist": "Kyle Dixon",
+      "url": "https://canvas.echomusic.fun/Album/katx-dev-1000265947.mp4"
+    },
+    {
+      "song": "Chichubuddi",
+      "artist": "Bheems Ceciroleo, Ram Miriyala,",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032260.mp4"
+    },
+    {
+      "song": "Meesaala Pilla",
+      "artist": "Bheems Ceciroleo, Bhaskarabhatla",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-videoplayback__1_.mp4"
+    },
+    {
+      "song": "Uyirey",
+      "artist": "Ramya Bhat Abhyankar, Vivek",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032273.mp4"
+    },
+    {
+      "song": "Aasa Kooda",
+      "artist": "Sai Smriti, Sai Abhyankkar",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032280.mp4"
+    },
+    {
+      "song": "Katchi Sera",
+      "artist": "Sai Abhyankkar",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032287.mp4"
+    },
+    {
+      "song": "Railin Oligal",
+      "artist": "Pradeep Kumar, Govind Vasantha",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032297.mp4"
+    },
+    {
+      "song": "Urugi Urugi",
+      "artist": "Anand Aravindakshan, Siddhu Kumar,Vignesh Ramakrishna",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032306.mp4"
+    },
+    {
+      "song": "Hayyoda",
+      "artist": "Anirudh Ravichander",
+      "url": "https://canvas.echomusic.fun/Song/chandanavikas-1000032316.mp4"
     },
     {
       "song": "Sun saawariya",
